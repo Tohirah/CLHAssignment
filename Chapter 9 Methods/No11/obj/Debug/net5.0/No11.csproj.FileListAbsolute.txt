@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\bin\Debug\net5.0\No11.exe
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\bin\Debug\net5.0\No11.deps.json
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\bin\Debug\net5.0\No11.runtimeconfig.json
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\bin\Debug\net5.0\No11.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\bin\Debug\net5.0\No11.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\bin\Debug\net5.0\ref\No11.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\bin\Debug\net5.0\No11.pdb
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\obj\Debug\net5.0\No11.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\obj\Debug\net5.0\No11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\obj\Debug\net5.0\No11.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\obj\Debug\net5.0\No11.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\obj\Debug\net5.0\No11.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\obj\Debug\net5.0\No11.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\obj\Debug\net5.0\ref\No11.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\obj\Debug\net5.0\No11.pdb
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\No11\obj\Debug\net5.0\No11.genruntimeconfig.cache

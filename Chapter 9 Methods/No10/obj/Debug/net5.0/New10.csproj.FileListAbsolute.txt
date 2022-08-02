@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\obj\Debug\net5.0\New10.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\obj\Debug\net5.0\New10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\obj\Debug\net5.0\New10.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\obj\Debug\net5.0\New10.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\obj\Debug\net5.0\New10.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\bin\Debug\net5.0\New10.exe
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\bin\Debug\net5.0\New10.deps.json
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\bin\Debug\net5.0\New10.runtimeconfig.json
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\bin\Debug\net5.0\New10.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\bin\Debug\net5.0\New10.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\bin\Debug\net5.0\ref\New10.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\bin\Debug\net5.0\New10.pdb
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\obj\Debug\net5.0\New10.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\obj\Debug\net5.0\ref\New10.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\obj\Debug\net5.0\New10.pdb
+C:\Users\Owner\Desktop\CLH\Class Assignment\Assignment\Chapter 9\New10\obj\Debug\net5.0\New10.genruntimeconfig.cache

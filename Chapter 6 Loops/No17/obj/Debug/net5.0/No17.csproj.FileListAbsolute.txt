@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\bin\Debug\net5.0\No17.exe
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\bin\Debug\net5.0\No17.deps.json
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\bin\Debug\net5.0\No17.runtimeconfig.json
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\bin\Debug\net5.0\No17.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\bin\Debug\net5.0\No17.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\bin\Debug\net5.0\ref\No17.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\bin\Debug\net5.0\No17.pdb
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\obj\Debug\net5.0\No17.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\obj\Debug\net5.0\No17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\obj\Debug\net5.0\No17.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\obj\Debug\net5.0\No17.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\obj\Debug\net5.0\No17.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\obj\Debug\net5.0\No17.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\obj\Debug\net5.0\ref\No17.dll
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\obj\Debug\net5.0\No17.pdb
+C:\Users\Owner\Desktop\CLH\Class Assignment\Submit Assignment\Chapter 6 Loops\No17\obj\Debug\net5.0\No17.genruntimeconfig.cache
